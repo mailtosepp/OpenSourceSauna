@@ -1,2 +1,2 @@
 # sauna
-building plans for a outdoor sauna
+building plans for an outdoor sauna
