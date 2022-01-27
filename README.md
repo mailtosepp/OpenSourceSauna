@@ -1,7 +1,7 @@
 # OpenSourceSauna
 Construction plans and documents for building a outdoor sauna
 
-/OpenSourceSauna/electrocat.png
+/Logo-OpenSourceSauna.jpg
 
 # Approach
 We want the saunarization of the occident! Because the OpenSource Sauna strives for the health of body and mind. And that for everyone. Everyone should have inexpensive access to a sauna and visit it regularly. In a group this is especially bonding. Hence the idea to found a sauna club and to construct a suitable sauna for it.
