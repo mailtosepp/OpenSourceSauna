@@ -104,11 +104,11 @@ Der Verein ist solidarisch mit anderen Vereinen die ebenfalls das Gemeinschaftsl
 
 # Brief an den Kreisbaumeister
 Unterlagen 
--Lageplan
--Bauzeichnung
--Grundstücksentwäserung
--Baubeschreibung
--Standsicherheitsnachweis
+- Lageplan
+- Bauzeichnung
+- Grundstücksentwäserung
+- Baubeschreibung
+- Standsicherheitsnachweis
 
 Baubeschreibung
 Dach und Fassade sind mit Lärchenschindel gedeckt. Die Untersicht ist mit gehobelten Lärchenbretter verkleidet. Dach und Außenwände sind aus Brettstapelwänden mit einer Stärke von 17cm die massiv aus kreuzweise verübelten Brettern besteht. Der Baukörper ist aufgeständert auf fünf schräge Stahlrohrstützen. Die Gründung ist mit Einzelfundamenten. 
@@ -177,8 +177,7 @@ Finanzierung
 Telefonat mit Sarah Wiesböck (Pächterin Strandbad) Anfang Juli 2020
 Hat kein persönliches Interesse an saunieren. Ist skeptisch ob sich ihre Gäste an der Sauna stören würden. Würde sich es aber gerne mal ansehen. Sage ihr ich würde gerne ihre Einwände hören bevor ich vor dem Gemeinderat stehe ohne sie als Expertin gehört zu haben. Sie hat aber erst Zeit wenn es schlechtes Wetter hat. Meldet sich wenn es bei ihr passt.
 
-# Gespräch mit Darija und Peter 
-am 4.7.2020
+# Gespräch mit Darija und Peter am 4.7.2020
 Türe schlägt nach innen, Fluchtweg, andere Lösung
 Lüftung im Dach nötig?
 Rauch beim anzünden
