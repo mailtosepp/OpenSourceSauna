@@ -1,77 +1,8 @@
 # Sauna Feldafing
 
-Mittwoch 24.6.2020	2,5h
-1530	Entwurfsplan CAD anlegen, Grundriss, Ansicht	1800	Ende
-
-Freitag 26.6.2020		2,0h
-1145		Schnitt A-A, Schnitt B-B, 
-		Variante Treppe von unten
-1245		Mittag
-1345	Grundriss Alternative
-1445	Ende / Büro
-
-Samstag 27.6.2020		4,5h
-1930	Schnitt B-B Alternative, Treppe
-2100		Pause / Essen
-2130		Schnitt A-A Alternative
-2245	Stützfüße, Grundriss Gelände
-0030	Ende
-
-Sonntag 28.6.2020		4,0h
-1230		Stützfüße Ansicht, Fundamente
-1400	Pause
-1600	Lageplan 1-2000	
-1700		Pause
-1730		Layout
-1830	Beschreibung
-1900	Pause
-2315		Bemaßung, Höhenkoten
-0015	Ende
-
-Montag 29.6.2020		1,5h
-1645 Bemaßung, Ausstattung, Druck
-1815 Telefonat mit Robert 
-1900 Ende
-
-Dienstag 30.6.2020		4,0h
-1815		Massenermittlung 
-		(Außenfläche, Konstruktion, Innenfläche)
-2030	Pause
-2130		Massenermittlung (Gestell)
-2315		Ende
-
-Mittwoch 1.7.2020		1,5h
-1300	Detail Holz100
-1345	Ende / Büro
-1915		Statik (Lasten, DN)
-2000	Pause / Essen
-
-Sonntag 5.7.2020		4,75h
-1515		Entwurfspläne Umzeichen auf Holz100 System
-1800	Variante Treppe
-2100		Pause
-2300	Detailierung D1-D6, Winkel
-
-Dienstag 7.7.2020		1,75h
-2215		Import Geodaten DFK, Orthophoto, Höhenlinien
-2230	Detail D1-5, Normalprofil Winkel
-0000	Ende
-
-Donnerstag 9.7.2020	0,5h
-2045	Details Elemente A B C, Winkel
-2115		Pause / Putzen
-
-Sonntag 2.8.2020		1,0h
-2345	Brief Kreisbaumeister Baubeschreibung
-0045	Ende
-
-Sonntag 9.8.2020		1,0h
-1100		Briefentwurf Kreisbaumeisterin, 
-		Ziele des Vereins
-1200		Ende
-
 Standort Alternativen:
 Maria Einsiedelbad, München
+Garatshausen, Starnberger See
 
 # Literatur:
 Anton G. Leitner - Erde, Feuer, Luft und Wasser - Poesie der Elemente
