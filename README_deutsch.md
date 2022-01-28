@@ -1,7 +1,7 @@
 # OpenSource Sauna
 Pläne und Dokumente für den Bau einer Sauna
 
-![OpenSourceSauna](Logo-OpenSourceSauna.jpg)
+![OpenSourceSauna](OpenSourceSauna.jpg)
 
 # Ansatz
 Wir wollen die Saunarisierung des Abendlandes! Denn die OpenSource Sauna strebt die Gesundheit von Körper und Geist an. Und zwar für alle. Jeder sollte kostengünstigen Zugang zu einer Sauna haben und diese regelmäßig besuchen. In der Gruppe ist dieses besonders zusammenschweißend. Daher die Idee einen Saunaverein zu gründen und eine passende Sauna dafür zu konstruieren.
