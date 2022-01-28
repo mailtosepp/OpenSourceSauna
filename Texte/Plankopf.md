@@ -1,17 +1,29 @@
-* Ort:
-* Projekttitel:
+Ort:
 
-* Plannummer:
-* Planinhalt:
+Projekttitel:
+
+Plannummer:
+
+Planinhalt:
 
 
-- Entwurfsverfasser: Josef Lehner Dipl.-Ing. (FH)
-- Download: www.github.com/mailtosepp/OpenSourceSauna
-- Homepage: www.opensourcesauna.de
+Dies ist ein Opensource Projekt
 
-- Büro Team-Holzkopf | Büro für Städtebau und Freiraumplanung
-- Liebigstraße 39 *Gartenhaus*
-- D-80538 München
+Lizenz NN
+
+
+Entwurfsverfasser: Josef Lehner Dipl.-Ing. (FH)
+
+Download: www.github.com/mailtosepp/OpenSourceSauna
+
+Homepage: www.opensourcesauna.de
+
+
+Büro Team-Holzkopf | Büro für Städtebau und Freiraumplanung
+
+Liebigstraße 39 *Gartenhaus*
+
+D-80538 München
 
 
 
