@@ -18,14 +18,6 @@ Standort Alternativen:
 - Sculptor Network
 - Wüstenrot Stiftung
 
-# Personen:
-- Willy Michel Isarindianer
-- Christian Felber, Gemeinwohlökonom
-- Erwin Thoma Holz100, Förster und Unternehmer
-- Hansjörg Küster, Biologe und Planzenökologe
-- Matthieu Ricard, buddhistischen Mönch
-- Wolfgang Weigl, Bauinnung Zimmerer 
-
 # Lage:
 - Seebad (Strandbad) Feldafing von 1927, Denkmalgeschützt
 - Gasthof, Terrasse, Umkleidekabinen, Liegewiese, Steg, Sprungturm
