@@ -1,90 +1,90 @@
 # Sauna Feldafing
 
 Standort Alternativen:
-Maria Einsiedelbad, München
-Garatshausen, Starnberger See
+- Maria Einsiedelbad, München
+- Garatshausen, Starnberger See
 
 # Literatur:
-Anton G. Leitner - Erde, Feuer, Luft und Wasser - Poesie der Elemente
-Gaston Bachelard - Poetik des Raumes
-Tomás Valena - Beziehungen
-Prof. Ernst Zürcher - Die Bäume und das Unsichtbare
-Erwin Thoma - Sprache der Bäume
-Rudolf Schwarz - Bebauung der Erde
+- Anton G. Leitner - Erde, Feuer, Luft und Wasser - Poesie der Elemente
+- Gaston Bachelard - Poetik des Raumes
+- Tomás Valena - Beziehungen
+- Prof. Ernst Zürcher - Die Bäume und das Unsichtbare
+- Erwin Thoma - Sprache der Bäume
+- Rudolf Schwarz - Bebauung der Erde
 
 # Kooperationen:
-Cradle to Cradle NGO
-Holz100
-Sculptor Network
-Wüstenrot Stiftung
+- Cradle to Cradle NGO
+- Holz100
+- Sculptor Network
+- Wüstenrot Stiftung
 
 # Personen:
-Willy Michel Isarindianer
-Christian Felber, Gemeinwohlökonom
-Erwin Thoma Holz100, Förster und Unternehmer
-Hansjörg Küster, Biologe und Planzenökologe
-Matthieu Ricard, buddhistischen Mönch
-Wolfgang Weigl, Bauinnung Zimmerer 
+- Willy Michel Isarindianer
+- Christian Felber, Gemeinwohlökonom
+- Erwin Thoma Holz100, Förster und Unternehmer
+- Hansjörg Küster, Biologe und Planzenökologe
+- Matthieu Ricard, buddhistischen Mönch
+- Wolfgang Weigl, Bauinnung Zimmerer 
 
 # Lage:
-Seebad (Strandbad) Feldafing von 1927, Denkmalgeschützt
-Gasthof, Terrasse, Umkleidekabinen, Liegewiese, Steg, Sprungturm
-WC und Umkleiden im Hauptgebäude
-Liegewiese und Außenduschen vorhanden
-Parkplätze vorhanden
-Gelegen im Lenné-Park
-Fußläufig zu Roseninsel
+- Seebad (Strandbad) Feldafing von 1927, Denkmalgeschützt
+- Gasthof, Terrasse, Umkleidekabinen, Liegewiese, Steg, Sprungturm
+- WC und Umkleiden im Hauptgebäude
+- Liegewiese und Außenduschen vorhanden
+- Parkplätze vorhanden
+- Gelegen im Lenné-Park
+- Fußläufig zu Roseninsel
 
 # Funktion:
-Für 12 Personen ausgelegt
-Holzbeheizter Saunaofen, DN 150 Edelstahlkamin
-Holzlager unter dem Gebäude
-Klapptüre
-Konstruktionshölzer innen sichtbar
-Beleuchtungselemente in der Konstruktion
-Außengrill
+- Für 12 Personen ausgelegt
+- Holzbeheizter Saunaofen, DN 150 Edelstahlkamin
+- Holzlager unter dem Gebäude
+- Klapptüre
+- Konstruktionshölzer innen sichtbar
+- Beleuchtungselemente in der Konstruktion
+- Außengrill
 
 # Konstruktion:
-Dachdeckung Lärchenschindeln
-Untersicht mit Lärchenschalung
-Außenschalung d=25mm
-Konstruktionshölzer Querschnitt 6x12cm Länge 1,95m-2,75m
-Holzfaserdämmung d=12cm
-Innenverkleidung Nut- und Federbrettschalung
-Stützfüße Metallrohre d=50mm
-Fundamente d=30cm t=60cm
-Außenflächen Steckkiesel, Steinkonglomerate
+- Dachdeckung Lärchenschindeln
+- Untersicht mit Lärchenschalung
+- Außenschalung d=25mm
+- Konstruktionshölzer Querschnitt 6x12cm Länge 1,95m-2,75m
+- Holzfaserdämmung d=12cm
+- Innenverkleidung Nut- und Federbrettschalung
+- Stützfüße Metallrohre d=50mm
+- Fundamente d=30cm t=60cm
+- Außenflächen Steckkiesel, Steinkonglomerate
 
 
 # Vereinsatzung (Ideensammlung)
-Sauna Schwestern und Brüder
-Förderung von Freikörperkultur
-Zusammenschweißen
-Gemeinschaftsförderung
-Vereinslied
-Jugendbewegung
-Künste und Poesie 
-Naturverbundenheit
-Events, Lesungen, Ausstellungen
-Sitzung in der Sauna, die wichtigsten Entscheidungen werden hier getroffen
-Lebhafte Gespräche
-Glückseligkeit (Finnland Glücklichstes Land der Erde)
-körperliche und seelische Reinigung
-Nichtstun
-Einladung eine Ehre
-Saunafamile
-Männer und Frauen getrennt
-Spannungen Abbauen
-Streitfreie Zone
-Kunst und Gesellschaft (Handwerkskunst. Planer, Wissenschaftler)
-Opensource Sauna 
-Gemeinwohlökonomie
-Holz 100 Konstruktion Wand 17cm (kostenorientiert, Wohngesundheit und Behaglichkeit)
-Lernen von der Natur
-Bäume helfen den Herzschlag der Welt spüren
-Häuser wie Bäume und Städte wie der Wald
-Ältestenrat tagt unter besonderen Baum
-Zerreiß die Uniform und bleib im Zweifel Nackt
+- Sauna Schwestern und Brüder
+- Förderung von Freikörperkultur
+- Zusammenschweißen
+- Gemeinschaftsförderung
+- Vereinslied
+- Jugendbewegung
+- Künste und Poesie 
+- Naturverbundenheit
+- Events, Lesungen, Ausstellungen
+- Sitzung in der Sauna, die wichtigsten Entscheidungen werden hier getroffen
+- Lebhafte Gespräche
+- Glückseligkeit (Finnland Glücklichstes Land der Erde)
+- körperliche und seelische Reinigung
+- Nichtstun
+- Einladung eine Ehre
+- Saunafamile
+- Männer und Frauen getrennt
+- Spannungen Abbauen
+- Streitfreie Zone
+- Kunst und Gesellschaft (Handwerkskunst. Planer, Wissenschaftler)
+- Opensource Sauna 
+- Gemeinwohlökonomie
+- Holz 100 Konstruktion Wand 17cm (kostenorientiert, Wohngesundheit und Behaglichkeit)
+- Lernen von der Natur
+- Bäume helfen den Herzschlag der Welt spüren
+- Häuser wie Bäume und Städte wie der Wald
+- Ältestenrat tagt unter besonderen Baum
+- Zerreiß die Uniform und bleib im Zweifel Nackt
 
 # Ziele des Saunavereins (Tina)
 ## Glückseligkeit (vgl. Finnland)
@@ -120,69 +120,69 @@ Statisch funktioniert das Gebäude wie eine geodätische Kuppelkonstruktion die 
 Die Sauna würde das Naturbad vor allem im Winterbetrieb ergänzen und würde auf die vorhandene Infrastruktur (Duschen, Toiletten, Umkleiden, Liegewiese) zurückgreifen. Synergieen würden sich auch durch die bestehende Gaststätte ergeben. Die Sauna ist für 12 Personen ausgelegt. Betreiber soll ein eigens gegründeter Verein sein. Für die ansässigen Vereine wäre die Nutzung ebenfalls offen.
 
 # Lage
-Seebad (Strandbad) Feldafing von 1927, Denkmalgeschützt
-Gasthof, Terrasse, Umkleidekabinen, Liegewiese, Steg, Sprungturm
-WC und Umkleiden im Hauptgebäude
-Liegewiese und Außenduschen vorhanden
-Parkplätze vorhanden
-Gelegen im Lenné-Park
-Fußläufig zu Roseninsel
-Grundstückseigentümer ist die Gemeinde Feldafing
-Bestehendes Gebäude und Gelände ist verpachtet
+- Seebad (Strandbad) Feldafing von 1927, Denkmalgeschützt
+- Gasthof, Terrasse, Umkleidekabinen, Liegewiese, Steg, Sprungturm
+- WC und Umkleiden im Hauptgebäude
+- Liegewiese und Außenduschen vorhanden
+- Parkplätze vorhanden
+- Gelegen im Lenné-Park
+- Fußläufig zu Roseninsel
+- Grundstückseigentümer ist die Gemeinde Feldafing
+- Bestehendes Gebäude und Gelände ist verpachtet
 
 # Verein
-Glückseligkeit (vgl. Finnland)
-Naturverbundenheit 
-Reinigung von Körper und Geist (Gesundheit)
-Netzwerk (wichtige Entscheidungen werden in der Sauna getroffen)
-Solidargemeinschaft mit anderen Sauna-Schwestern und Brüdern (Opensource)
-Gemeinschaftsförderung (offen für andere Vereine)
+- Glückseligkeit (vgl. Finnland)
+- Naturverbundenheit 
+- Reinigung von Körper und Geist (Gesundheit)
+- Netzwerk (wichtige Entscheidungen werden in der Sauna getroffen)
+- Solidargemeinschaft mit anderen Sauna-Schwestern und Brüdern (Opensource)
+- Gemeinschaftsförderung (offen für andere Vereine)
 
 # Befragung der Bürger
-Nutzen Sie das Strandbad, wenn ja wie oft
-Wie gefällt Ihnen das Strandbad, was fehlt
-Wie kommen Sie dort hin
-Gehen Sie in die Sauna, wenn ja wie oft
-Wieviel sind sie bereit für die Sauna auszugeben
-Wo gehen Sie in die Sauna
-Sind Sie in einem Verein tätig
-Würden Sie wenn Sie in die Sauna gehen anschließend in die Gaststätte gehen
-Würden Sie das Projekt finanziell unterstützen
-Würden Sie gerne Mitglied im Verein werden
-Wie finden Sie das Konzept
-Wie finden Sie den Entwurf
+- Nutzen Sie das Strandbad, wenn ja wie oft
+- Wie gefällt Ihnen das Strandbad, was fehlt
+- Wie kommen Sie dort hin
+- Gehen Sie in die Sauna, wenn ja wie oft
+- Wieviel sind sie bereit für die Sauna auszugeben
+- Wo gehen Sie in die Sauna
+- Sind Sie in einem Verein tätig
+- Würden Sie wenn Sie in die Sauna gehen anschließend in die Gaststätte gehen
+- Würden Sie das Projekt finanziell unterstützen
+- Würden Sie gerne Mitglied im Verein werden
+- Wie finden Sie das Konzept
+- Wie finden Sie den Entwurf
 
 
 
 
 # Telefonat mit Robert am 29.6.2020
-Statik
-Windlast
-Abheben
-Schneelast 
-Verkehrslast
-Horizontallast
+- Statik
+- Windlast
+- Abheben
+- Schneelast 
+- Verkehrslast
+- Horizontallast
 
 Genehmigung
-Vereinfachtes Verfahren 
-Evtl. Keine Genehmigung nötig
-Abhängig von der o
+- Vereinfachtes Verfahren 
+- Evtl. Keine Genehmigung nötig
+- Abhängig von der o
 
-Brandschutz
-Fluchtweg
-Förderung 
-Kostenberechnung 
-Finanzierung 
+- Brandschutz
+- Fluchtweg
+- Förderung 
+- Kostenberechnung 
+- Finanzierung 
 
 Telefonat mit Sarah Wiesböck (Pächterin Strandbad) Anfang Juli 2020
 Hat kein persönliches Interesse an saunieren. Ist skeptisch ob sich ihre Gäste an der Sauna stören würden. Würde sich es aber gerne mal ansehen. Sage ihr ich würde gerne ihre Einwände hören bevor ich vor dem Gemeinderat stehe ohne sie als Expertin gehört zu haben. Sie hat aber erst Zeit wenn es schlechtes Wetter hat. Meldet sich wenn es bei ihr passt.
 
 # Gespräch mit Darija und Peter am 4.7.2020
-Türe schlägt nach innen, Fluchtweg, andere Lösung
-Lüftung im Dach nötig?
-Rauch beim anzünden
-Raumhöhe, weitere Ebene für Sitzbänke
-Modell bauen
+- Türe schlägt nach innen, Fluchtweg, andere Lösung
+- Lüftung im Dach nötig?
+- Rauch beim anzünden
+- Raumhöhe, weitere Ebene für Sitzbänke
+- Modell bauen
 
 # Gespräch mit Robert am 6.7.2020
 Gründung einer gGmbH dem Verein vorziehen. In einer gGmbH behielte ich das sagen und die Entscheidungskontrolle. Der Bau wäre Grundstock für die gGmbH. Überlege mir Saunaverein und Bau zu trennen. Hätte gerne den Verein als Betreiber mit dem ganzen Vereinszeug und das Büro als Bauherr bliebe im Besitz der Immobilie. Muss ja nicht umbedingt Vorstand im Verein bleiben wenn sich jemand besseres findet.
@@ -210,28 +210,28 @@ Wünscht mir viel Erfolg und würde sich freuen vom Fortgang des Projekts zu hö
 Er baut grade mit einem Bildhauer einen 7m hohen Turm auf einer Lichtung im Wald. Zylinderförmig verjüngt sich die Schalung des Turms nach oben. Später kommen Lärchenschindeln als Deckung drauf. Frag ihn ob er eine Conction zu Schindel Hersteller hat. Der Bildhauer kennt den Schindel Sepp der mit seiner Frau die Schindeln selber herstellt. Würde mir die Telefonnummer weiterleiten. Erzähle von meinen Plänen zum Büro und zu den aktuellen Projekten. Falls es etwas zu tun gibt wäre er gerne dabei. Wir müssen noch vor seinem Urlaub etwas ausmachen und uns in Passau bei seiner Baustelle treffen.
 
 # Todo 
-Kataster und Höhenlinienplan
-Termin Strandbad 
-Statikunterlagen holen
-Dachneigung
-Skizzenbuch holen
-Modell bauen
-Bestandsaufnahme
-Termin Gemeinderat
-Handzeichnung sw
-Verein gründen 
-Lieferer für Schindeln
-Anfrage Holz100 (Fräsen mgl., Preis)
-Bauamt Feldafing Eingabeplan Strandbad
-Dokumentarfilm (Michi B.)
-3D Modell und Rendering (Carl)
+- Kataster und Höhenlinienplan
+- Termin Strandbad 
+- Statikunterlagen holen
+- Dachneigung
+- Skizzenbuch holen
+- Modell bauen
+- Bestandsaufnahme
+- Termin Gemeinderat
+- Handzeichnung sw
+- Verein gründen 
+- Lieferer für Schindeln
+- Anfrage Holz100 (Fräsen mgl., Preis)
+- Bauamt Feldafing Eingabeplan Strandbad
+- Dokumentarfilm (Michi B.)
+- 3D Modell und Rendering (Carl)
 
 # Krititk
-Die anderen könnten sich stören an den Nachbadenden (Nanas)
-Der Luftraum ist zu groß, bzw die Hitze staut sich oben (Carl)
-Eine Hütte wie das Strandbad würde besser passen (Sandra)
-Wie wird es gewährleistet das die Hütte nicht abbrennt (Peter)
-Was ist mit der Belichtung (Peter)
+- Die anderen könnten sich stören an den Nachbadenden (Nanas)
+- Der Luftraum ist zu groß, bzw die Hitze staut sich oben (Carl)
+- Eine Hütte wie das Strandbad würde besser passen (Sandra)
+- Wie wird es gewährleistet das die Hütte nicht abbrennt (Peter)
+- Was ist mit der Belichtung (Peter)
 
 # Gespräch mit Frau Thut am 6.7.2020
 Habe nebenan meine Lehre als Zimmerer gemacht
@@ -242,15 +242,15 @@ Büro
 Man kann wählen wieviel man pro Stunde zählt
 
 # Opensource 
-Github als Plattform
-Zeichenplöne Dxf-Format
-3D Modell 3Ds-Format
-Pläne PDF
-Entwurfspläne (Eingabepläne)
-Werkpläne
-Detailpläne
-Kostentabellen
-Statik
+- Github als Plattform
+- Zeichenplöne Dxf-Format
+- 3D Modell 3Ds-Format
+- Pläne PDF
+- Entwurfspläne (Eingabepläne)
+- Werkpläne
+- Detailpläne
+- Kostentabellen
+- Statik
 
 # Gespräch mit Toni und Traudl am 2.7.2020
 Ich soll mir mal Klingenbrunn ansehen. Ist ein Schlaffassdorf im Bayerischer Wald. Ich soll mich erkundigen zum öffentlichen Baurecht und zur BauNVO. Ideal wäre seiner Ansicht nach ein Campingplatz, da es Privatgrund ist und so etwas dort leicht gemacht werden kann. Dort gibt auch die nötige Infrastruktur (Warmwasserduschen, beheizte Räume). Ich sage es  
@@ -265,23 +265,23 @@ Brief an Thoma Holz100
 
 Sehr geehrtes Thoma Team,
 
-begeistert vom Holz100 System
-über Vorträge von Thoma erfahren
-Begeistert von dem Wissen das er über den Baum und Wald erzählt und übernimmt
-Gemeinnütziges Saunaprojekt
-Opensourcegedanke
-Saunabau mit Holzwänden 17cm
-Kanten fräsen mit Winkelnuten möglich
-Kosten für Elemente
-Preisgestaltungsmöglichkeiten
+- begeistert vom Holz100 System
+- über Vorträge von Thoma erfahren
+- Begeistert von dem Wissen das er über den Baum und Wald erzählt und übernimmt
+- Gemeinnütziges Saunaprojekt
+- Opensourcegedanke
+- Saunabau mit Holzwänden 17cm
+- Kanten fräsen mit Winkelnuten möglich
+- Kosten für Elemente
+- Preisgestaltungsmöglichkeiten
 
 
-# Telefonat mit Frau Schmied LRA 2021
-Sieht es kritisch in Naturschutz und nähebereich eines Baudenkmals zu bauen
-Hat das an Frau Reichhardt weitergeleitet
-Außenbereich und kein Bebauungsplan 
-Hab’s abgestimmt mit der Pächterin 
-Idee Gut winternutzung 
+# Telefonat mit Frau Schmied Kreisbaumeisterin LRA 2021
+- Sieht es kritisch in Naturschutz und nähebereich eines Baudenkmals zu bauen
+- Hat das an Frau Reichhardt weitergeleitet
+- Außenbereich und kein Bebauungsplan 
+- Hab’s abgestimmt mit der Pächterin 
+- Idee Gut winternutzung 
 
 
 # Samstag 7.8.2021
@@ -331,25 +331,25 @@ Josef Lehner
 
 
 # Notizen für GitHub
-Bauweise
+## Bauweise
 
-    Massivbauweise (Leimfrei/Leimholz)
-    Hozständerbauweise
-    Rahmenbauweise
+   - Massivbauweise (Leimfrei/Leimholz)
+   - Holzständerbauweise
+   - Rahmenbauweise
 
-Dachdeckung
+## Dachdeckung
 
-    Holzschindeldeckung
-    Pappschindeln
-    Blechdeckung
+   - Holzschindeldeckung
+   - Pappschindeln
+   - Blechdeckung
 
-Strukturaufbau (Knotenverbindung)
+## Strukturaufbau (Knotenverbindung)
 
-    Rahmen/Platten
-    Stäbe/Knotenbleche
+   - Rahmen/Platten
+   - Stäbe/Knotenbleche
 
-Schiftung
+## Schiftung
 
-    Rechnerische Ermittlung
-    Zeichnerische Ermittlung
-    3D Abbund / Plottplan
+   - Rechnerische Ermittlung
+   - Zeichnerische Ermittlung
+   - 3D Abbund / Plottplan
