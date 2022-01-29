@@ -23,3 +23,6 @@ The documents will be uploaded as far as available. For outstanding plans corres
 - Cost calculation
 - Documentation (photos, videos, descriptions)
 - Association foundation documents
+
+# License
+This work is licensed under a Creative Commons ![Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
