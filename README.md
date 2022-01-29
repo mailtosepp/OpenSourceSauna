@@ -25,4 +25,4 @@ The documents will be uploaded as far as available. For outstanding plans corres
 - Association foundation documents
 
 # License
-This work is licensed under a Creative Commons ![by-nc/3.0](http://creativecommons.org/licenses/by-nc/3.0/de).
+This work is licensed under a Creative Commons ![Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/).
