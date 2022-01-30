@@ -21,3 +21,6 @@ Die Unterlagen werden soweit vorhanden hochgeladen. Für ausstehende Pläne werd
 - Kostenberechnung
 - Dokumentation (Fotos, Videos, Beschreibungen)
 - Vereinsgründungsunterlagen
+
+# Lizenz
+Diese Arbeit ist lizensiert unter der Creative Commons ![Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/).
