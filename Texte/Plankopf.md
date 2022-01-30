@@ -1,15 +1,23 @@
+## Plankopf
+Folgender Plankopf ist für alle Pläne zu verwenden.
+
+
 Ort:
 
-Projekttitel:
+Projekttitel: OpenSourceSauna
 
 Plannummer:
 
 Planinhalt:
 
 
+
+
 Dies ist ein Opensource Projekt
 
-Lizenz NN
+Lizenz CC BY-NC 3.0
+
+
 
 
 Entwurfsverfasser: Josef Lehner Dipl.-Ing. (FH)
@@ -17,6 +25,8 @@ Entwurfsverfasser: Josef Lehner Dipl.-Ing. (FH)
 Download: www.github.com/mailtosepp/OpenSourceSauna
 
 Homepage: www.opensourcesauna.de
+
+
 
 
 Büro Team-Holzkopf | Büro für Städtebau und Freiraumplanung
