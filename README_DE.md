@@ -15,10 +15,10 @@ Hierfür werden Modellvarianten, die je nach Budget und Handwerklichen Fähigkei
 # Projektgliederung
 Die Unterlagen werden soweit vorhanden hochgeladen. Für ausstehende Pläne werden entsprechende Projekte vorgegeben. Das Projekt gliedert sich wie folgt:
 - Pläne für Genehmigungsplanung und Datenblätter 
-- Werkpläne
-- Details für Holz und Stahl 
-- Statik
-- Kostenberechnung
+- ![Werkpläne](issues/2)
+- ![Details für Holz und Stahl](issues/2) 
+- ![Statik](issues/3)
+- ![Kostenberechnung](Kosten/Kosten.md)
 - Dokumentation (Fotos, Videos, Beschreibungen)
 - Vereinsgründungsunterlagen
 
