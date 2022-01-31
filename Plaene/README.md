@@ -1,6 +1,8 @@
 # CAD Programm
 Zur Verwendung kommt das 2D Zeichenprogramm [QCAD](https://qcad.org/en/). Die ursprungliche Datei wurde mit Vectorworks (Nemetschec) gezeichnet, aber da dieses Programm proprietär und relativ teuer in der Anschaffung ist, wurde auf eine OpenSource Software zurückgegriffen. Entsprechnend wurde der Export bereinigt und ergänzt.
 
+![CAD](OpenSourceSauna-CAD.jpg)
+
 # Pläne
 ![Plan](OpenSourceSauna-Plan.jpg)
 
