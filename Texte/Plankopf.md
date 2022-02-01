@@ -29,7 +29,7 @@ Homepage: www.opensourcesauna.de
 
 
 
-Büro Team-Holzkopf | Büro für Städtebau und Freiraumplanung
+Büro Team-Holzkopf
 
 Liebigstraße 39 *Gartenhaus*
 
