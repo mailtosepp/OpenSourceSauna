@@ -4,4 +4,4 @@ Unterlagen zur Dokumentation
 - Planliste: Nummerierte Liste aller druckfähigen Pläne
 - Briefe: Korrespondenzen mit Behörden und Planern
 
-[Montage](OpenSourceSauna-Montage.jpg)
+[Montage](/Texte/Montage.jpg)
