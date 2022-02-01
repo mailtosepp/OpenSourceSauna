@@ -5,7 +5,7 @@ Die Zeichnungsdateien sind als DXF/DWG gespeichert.
 
 ![Plan](OpenSourceSauna-Plan.jpg)
 
-Folgende Pläne werden benötigt:
+Folgende Pläne sind hier zu finden:
 - Entwurfspläne 1:100
 - Eingabeplan 1:100
 - Werkpläne 1:50
