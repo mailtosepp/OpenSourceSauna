@@ -1,4 +1,7 @@
 # Ziele des Saunavereins
+
+![Montage](/Texte/Montage.jpg)
+
 ## Glückseligkeit (vgl. Finnland)
 Das Streben nach persönlichen Glück ist eines der höchsten Ziele eines jeden Menschen. Die Finnen gelten als das glücklichste Land der Erde. Ob das mit der Saunatradition zusammenhäng ist zu fragen. Das regelmäßige saunieren Begleiter einen Finnen von der Geburt bis zum Tod.
 
