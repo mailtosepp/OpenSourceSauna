@@ -28,3 +28,10 @@ Hier sind alle Lienientypen und Schraffuren aufgelistet und ihre Bedeutung besch
 
 # Änderungsvermerke
 Änderung sind in den Plänen mit Inhalt und Datum sowie mit Kennzeichung des Verfassers zu notieren
+
+# Format
+A4 und ein vielfaches
+
+# Archivierung
+Datei Benennung: Den Planungsstufen entsprechend archiviert nach Leistungsphase (3 Entwurf, 4 Genehmigung, 5 Werkplanung, 6 Ausfühungsplanung)
+Bsp.: OpenSourceSauna 003 5 Abwicklungsplan 2022_0126.dxf
