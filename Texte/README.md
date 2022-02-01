@@ -3,3 +3,5 @@ Unterlagen zur Dokumentation
 - Stundenliste: Dokumentation der ausgeführten Arbeiten mit Angabe der benötignten Zeit
 - Planliste: Nummerierte Liste aller druckfähigen Pläne
 - Briefe: Korrespondenzen mit Behörden und Planern
+
+![Montage](opensourcesauna/Texte/OpensourceSauna-Montage.jpg)
