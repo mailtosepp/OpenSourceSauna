@@ -10,3 +10,4 @@ Schätzung anhand der Kennwerte des BKI mit einem Vergleichsobjekt
 # Kostenberechung
 Berechung der Kostengruppe 300+400
 
+![Tabelle](Tabelle.jpg)
