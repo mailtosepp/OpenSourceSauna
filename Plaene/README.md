@@ -21,7 +21,7 @@ Zur Verwendung kommt das 2D Zeichenprogramm [QCAD](https://qcad.org/en/). Die ur
 In dem Planverzeichnis ist ersichtlich welche Pläne gezeicchnet sind und beschrieben was in den Plänen enthalten ist
 
 # Plankopf
-siehe Dokument Plankopf.txt
+siehe Dokument ![Plankopf](/Texte/Plankopf.md)
 
 # Legende
 Hier sind alle Lienientypen und Schraffuren aufgelistet und ihre Bedeutung beschieben
@@ -30,8 +30,9 @@ Hier sind alle Lienientypen und Schraffuren aufgelistet und ihre Bedeutung besch
 Änderung sind in den Plänen mit Inhalt und Datum sowie mit Kennzeichung des Verfassers zu notieren
 
 # Format
-A4 und ein vielfaches
+A4 hochfomat, A3 quer und größere Formate quer dass sie faltbar sind.
 
 # Archivierung
-Datei Benennung: Den Planungsstufen entsprechend archiviert nach Leistungsphase (3 Entwurf, 4 Genehmigung, 5 Werkplanung, 6 Ausfühungsplanung)
+Datei Benennung: Den Planungsstufen entsprechend archiviert nach Leistungsphase (3 Entwurf, 4 Genehmigung, 5 Werkplanung, 6 Ausfühungsplanung). 
+Mit Projektname, Plannummer, Leistungsphase, Planinhalt und Datum
 Bsp.: OpenSourceSauna 003 5 Abwicklungsplan 2022_0126.dxf
