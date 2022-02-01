@@ -1,4 +1,4 @@
-# Übersicht
+Ein statisches Gutachten sollte folgende Teile enthalten:
 
 # Statische Berechung
 
