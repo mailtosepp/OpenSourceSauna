@@ -17,6 +17,32 @@ Zur Verwendung kommt das 2D Zeichenprogramm [QCAD](https://qcad.org/en/). Die ur
 
 ![CAD](CAD.jpg)
 
+## Zeichungsaufbau
+- Zeichnen im passenden Maßstab
+- Rahmen für Blattausschnitt
+- Plankopf als Block
+- Layerrein zeichnen
+
+### Layerorganisation
+Sichtbare und nicht plottbare Layer
+
+### Strichstärken
+Schnittlinien
+Ansichtslinien
+
+### Farben
+Standardfarben
+Benutzerdefiniert
+
+### Linienarten
+Hilfslinien
+Bemaßungslinien
+Schnittlinien
+
+### Schraffuren
+Solid - Damit können Objekte eingefügt werden die andere überdecken
+Hatch - Hatches können für Transparenzen genutz werden
+
 # Planverzeichnis
 In dem Planverzeichnis ist ersichtlich welche Pläne gezeicchnet sind und beschrieben was in den Plänen enthalten ist
 
