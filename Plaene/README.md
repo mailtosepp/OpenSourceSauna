@@ -23,25 +23,29 @@ Zur Verwendung kommt das 2D Zeichenprogramm [QCAD](https://qcad.org/en/). Die ur
 - Plankopf als Block
 - Layerrein zeichnen
 
+![Screenshot](Screenshot.jpg)
+
 ### Layerorganisation
 Sichtbare und nicht plottbare Layer
 
+
 ### Strichstärken
-Schnittlinien
-Ansichtslinien
+- Schnittlinien
+- Ansichtslinien
 
 ### Farben
-Standardfarben
-Benutzerdefiniert
+- Standardfarben
+- Benutzerdefiniert
 
 ### Linienarten
-Hilfslinien
-Bemaßungslinien
-Schnittlinien
+- Hilfslinien
+- Bemaßungslinien
+- Schnittlinien
 
 ### Schraffuren
-Solid - Damit können Objekte eingefügt werden die andere überdecken
-Hatch - Hatches können für Transparenzen genutz werden
+- Solid - Damit können Objekte eingefügt werden die andere überdecken
+- Hatch - Hatches können für Transparenzen genutz werden
+
 
 # Planverzeichnis
 In dem Planverzeichnis ist ersichtlich welche Pläne gezeicchnet sind und beschrieben was in den Plänen enthalten ist
