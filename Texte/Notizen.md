@@ -78,7 +78,7 @@ Standort Alternativen:
 - Ältestenrat tagt unter besonderen Baum
 - Zerreiß die Uniform und bleib im Zweifel Nackt
 
-# Ziele des Saunavereins (Tina)
+# Ziele des Saunavereins 
 ## Glückseligkeit (vgl. Finnland)
 Das Streben nach persönlichen Glück ist eines der höchsten Ziele eines jeden Menschen. Die Finnen gelten als das glücklichste Land der Erde. Ob das mit der Saunatradition zusammenhäng ist zu fragen. Das regelmäßige saunieren Begleiter einen Finnen von der Geburt bis zum Tod.
 
@@ -180,18 +180,18 @@ Hat kein persönliches Interesse an saunieren. Ist skeptisch ob sich ihre Gäste
 Gründung einer gGmbH dem Verein vorziehen. In einer gGmbH behielte ich das sagen und die Entscheidungskontrolle. Der Bau wäre Grundstock für die gGmbH. Überlege mir Saunaverein und Bau zu trennen. Hätte gerne den Verein als Betreiber mit dem ganzen Vereinszeug und das Büro als Bauherr bliebe im Besitz der Immobilie. Muss ja nicht umbedingt Vorstand im Verein bleiben wenn sich jemand besseres findet.
 
 ## Gespräch mit Klaus am 22.7.2020
-Erzähle Klaus das ich heute mit dem Bauamt in Feldafing telefoniert habe, mit der Bitte in die Bauakten vom Standbad Einblick zu haben. Der Bürgermeister meinte aber ich solle doch erstmal die Idee im Gemeinderat vorstellen. Hab auf den Einwand das es sich um ein Baudenkmal handelt verwiesen. Es ist jedoch nur ein Einzeldenkmal und keine Ensemble womit es keine Einwände von Seite der Denkmalpfleger gibt. Er hat mir empfohlen dem Kreisbaumeister einen Brief zu schreiben und ihm von meinem Vorhaben zu berichten. Er würde mir bei der Formulierung helfen. Hab auch erwähnt das das Bauamt auf Frau Wiesböck verwiesen hat diese auch einzubinden. Es ist freundlich von mir die Pächterin einzubeziehen jedoch ist der Eigentümer die Gemeinde und die hat das sagen ob gebaut werden darf.
+Erzähle Klaus das ich heute mit dem Bauamt in Feldafing telefoniert habe, mit der Bitte in die Bauakten vom Standbad Einblick zu haben. Der Bürgermeister meinte aber ich solle doch erstmal die Idee im Gemeinderat vorstellen. Hab auf den Einwand das es sich um ein Baudenkmal handelt verwiesen. Es ist jedoch nur ein Einzeldenkmal und keine Ensemble womit es keine Einwände von Seite der Denkmalpfleger gibt. Er hat mir empfohlen dem Kreisbaumeister einen Brief zu schreiben und ihm von meinem Vorhaben zu berichten. Er würde mir bei der Formulierung helfen. Hab auch erwähnt das das Bauamt auf Frau W. verwiesen hat diese auch einzubinden. Es ist freundlich von mir die Pächterin einzubeziehen jedoch ist der Eigentümer die Gemeinde und die hat das sagen ob gebaut werden darf.
 
 ## Telefonat mit Carl am 12.Juli 2020
-Erzähle ihm von dem Vorhaben eine gGmbH zu gründen. Da habe ich ja einiges vor. Er kennt einen vom Kartoffelkombinat. Daniel Überall ist auch in der Anstiftung. 
+Erzähle ihm von dem Vorhaben eine gGmbH zu gründen. Da habe ich ja einiges vor. Er kennt einen vom Kartoffelkombinat. Daniel Ü. ist auch in der Anstiftung. 
 Hat ihn kennengelert über die Werkbox. Er konnte ihm gut weiterhelfen bzgl. Regelung der Rechtsform für den gemeinnützigen Verein der Werkbox. Ist ein Netzwerker, hat an ihn auch Leute weitergeleitet.
 Er hat einen guten Überblick über wieviele Mitglieder das Kartoffelkombinat aufnehmen kann. Kommt ursprünglich aus der Werbeagentur, bis es ihm dort nicht mehr getaugt hat.
 
-## Telefonat mit Frau Reichert (Bauamt Gemeinde Feldafing) am 22.7.2020
+## Telefonat mit Frau R. (Bauamt Gemeinde Feldafing) am 22.7.2020
 Anfrage zu Plänen vom Strandbad. Es gibt mehrere Pläne. Die Wirtschaft kam erst später dazu. Nach Rückfrage mit dem Bürgermeister ob ich ins Archiv kann, soll Ich im Gemeinderat erstmal meine Idee vorstellen ob ein neues Saunagebäude in Gemeinderat Zuspruch findet. Schwierigkeit des Denkmalschutzes. Ein nächster Termin im Gemeinderat wäre im September möglich.
 
-## Telefonat mit Herrn Engländer (Geschäftsleitung Gemeinde Feldafing) am 28.7.2020
-Wusste noch nichts von dem Projekt. Hat sich darüber noch nicht mit dem Bürgermeister unterhalten. Ich solle doch eine Projektbeschreibung und Unterlagen die ich habe ihm per E-Mail schicken, bevor er es auf die Tagesordnung setzt. Muss nochmal mit dem Bürgermeister Rücksprache halten. Ein Termin im September wäre prinzipiell möglich. Zurzeit ist ein Umbau des Strandbades in Planung. Könnte also gut passen. Email p.englaender@feldafing.de
+## Telefonat mit Herrn E. (Geschäftsleitung Gemeinde Feldafing) am 28.7.2020
+Wusste noch nichts von dem Projekt. Hat sich darüber noch nicht mit dem Bürgermeister unterhalten. Ich solle doch eine Projektbeschreibung und Unterlagen die ich habe ihm per E-Mail schicken, bevor er es auf die Tagesordnung setzt. Muss nochmal mit dem Bürgermeister Rücksprache halten. Ein Termin im September wäre prinzipiell möglich. Zurzeit ist ein Umbau des Strandbades in Planung. Könnte also gut passen. 
 
 ## Telefonat mit Frau Graumüller von Sculptor Network am 28.7.2020
 Können keine Projekte finanzieren. Sind auf die Beiträge der Mitglieder angewiesen. Das einzige was sie machen können ist es zu Publizieren. Könnten weiterhelfen falls weitere Künstler benötigt werden. Erzähle, wie die Sauna als Objekt und Gebäude aussieht und dass ich das Projekt OpenSource gestalten will, dass andere es nachbauen können. Empfiehlt mir mich an das Kompetenzteam Kultur- und Kreativwirtschaft - muenchen.de zu wenden sowie auf ihrer Website unter digitale Unterstützung nachzusehen, wo man Förderung für eine Crowdfundingkampagne bekommt. 
@@ -224,9 +224,9 @@ Er baut grade mit einem Bildhauer einen 7m hohen Turm auf einer Lichtung im Wald
 - Wie wird es gewährleistet das die Hütte nicht abbrennt (Peter)
 - Was ist mit der Belichtung (Peter)
 
-## Gespräch mit Frau Thut am 6.7.2020
+## Gespräch mit Frau T. am 6.7.2020
 Habe nebenan meine Lehre als Zimmerer gemacht
-Fragt mich warum ich nicht früher gekommen bin. Ich kann ihr leider keine Antwort geben. Hat sich schon gefragt was aus mir geworden ist. Ich wär ein begnadeter Zeichner gewesen. Sag das ich noch Kontakt zu vielen anderen Studienkollegen habe. Erzähle von Robert, Kathi, Shu, Thorsten, Georg und den anderen. Sie arbeitet nicht mehr im Büro. Das Sägewerk war die letzte Arbeit. Aber jetzt ist sie auch dort nicht mehr zu oft. Sie hat Probleme mit der Putzfrau, weil sie Sachen macht die ihr nicht passen, sie hat sie sogar verleumdet. Erzählt dazu wie sie zu dem Projekt gekommen sind, das sich die reichen Gemeinden den ärmeren finanziell unter die Arme greifen. Ich erzähle das ich den Kontakt zu meinen Safiern verloren habe. Vor kurzem war ein junger Kollege aus Berlin da. Alex Römer. Hat ein Kollektiv die unterschiedliche soziale Projekte mit Holz machen. Haben sogar ein Sägewerk in Oberösterreich. Mit denen soll ich mich mal in Verbindung setzen. (Alex@constructlab.net). Sie zeigt mir eine Broschüre die er dagelassen hat. Eine Tribüne aus Holz, handwerklich gut gemacht. Wir reden über das Büro. Ein Kollege hat mal ausgerechnet, das sich CAD Zeichnung erst ab der Werkplanung lohnt. Haben im Büro immer noch die alten Mac weil auf denen nur das CAD-Programm läuft. Hält aber nichts vom CAD zeichnen. Früher konnte man anhand der Linienstärke noch erkennen ob ein Bauteil geschnitten ist oder nicht. Mit dem Computer waren auf einmal alle Striche gleich dünn. Außerdem haben die Leute kein Gefühl mehr für Größen und Maßstäbe. Sie haben mit dem bloßen Auge gesehen ob ein Maß stimmt oder nicht. Zeige ihr mein Saunaprojekt. Sage das es den Einwand gab das sich die Badenden von den Nackten gestört fühlen können. Das ist ein Problem das es zu lösen gilt.
+Fragt mich warum ich nicht früher gekommen bin. Ich kann ihr leider keine Antwort geben. Hat sich schon gefragt was aus mir geworden ist. Ich wär ein begnadeter Zeichner gewesen. Sag das ich noch Kontakt zu vielen anderen Studienkollegen habe. Erzähle von Robert, Kathi, Shu, Thorsten, Georg und den anderen. Sie arbeitet nicht mehr im Büro. Das Sägewerk war die letzte Arbeit. Aber jetzt ist sie auch dort nicht mehr zu oft. Sie hat Probleme mit der Putzfrau, weil sie Sachen macht die ihr nicht passen, sie hat sie sogar verleumdet. Erzählt dazu wie sie zu dem Projekt gekommen sind, das sich die reichen Gemeinden den ärmeren finanziell unter die Arme greifen. Ich erzähle das ich den Kontakt zu meinen Safiern verloren habe. Vor kurzem war ein junger Kollege aus Berlin da. Alex R.. Hat ein Kollektiv die unterschiedliche soziale Projekte mit Holz machen. Haben sogar ein Sägewerk in Oberösterreich. Mit denen soll ich mich mal in Verbindung setzen. Sie zeigt mir eine Broschüre die er dagelassen hat. Eine Tribüne aus Holz, handwerklich gut gemacht. Wir reden über das Büro. Ein Kollege hat mal ausgerechnet, das sich CAD Zeichnung erst ab der Werkplanung lohnt. Haben im Büro immer noch die alten Mac weil auf denen nur das CAD-Programm läuft. Hält aber nichts vom CAD zeichnen. Früher konnte man anhand der Linienstärke noch erkennen ob ein Bauteil geschnitten ist oder nicht. Mit dem Computer waren auf einmal alle Striche gleich dünn. Außerdem haben die Leute kein Gefühl mehr für Größen und Maßstäbe. Sie haben mit dem bloßen Auge gesehen ob ein Maß stimmt oder nicht. Zeige ihr mein Saunaprojekt. Sage das es den Einwand gab das sich die Badenden von den Nackten gestört fühlen können. Das ist ein Problem das es zu lösen gilt.
 
 
 Büro
@@ -267,7 +267,7 @@ Sehr geehrtes Thoma Team,
 - Preisgestaltungsmöglichkeiten
 
 
-## Telefonat mit Frau Schmied Kreisbaumeisterin LRA 2021
+## Telefonat mit Frau S. Kreisbaumeisterin LRA 2021
 - Sieht es kritisch in Naturschutz und nähebereich eines Baudenkmals zu bauen
 - Hat das an Frau Reichhardt weitergeleitet
 - Außenbereich und kein Bebauungsplan 
@@ -293,15 +293,15 @@ Herzliche Grüße
 Josef Lehner
 
 
-## Telefonat mit frau hagenbucher am Dienstag den 25.1.2022
+## Telefonat mit frau h. am Dienstag den 25.1.2022
 Hat die Unterlagen weitergeleitet. Da gerade der Umbau läuft mit neuen einbauten kann er sich das Gebäude nicht vorstellen. Sie sieht das nicht so aber er hat das letzte Wort. Wenn jetzt die Stimmung im Gemeinderat sich für Das Projekt äußert weis sie nicht wie es aussieht. Ein Treffen aller Beteiligten ist nicht möglich zu Zeit. Ich kann ihn nochmal anrufen und mit ihm selbst reden. Ich bekomme seine Nummer. Er ist nur Montags erreichbar.
 
-## Telefonat mit Sunderland plassmann / Sekretariat am 25.1.2022
-Ich schildere das Problem und meinen Behörden Sprung. Frage wie weit die die Planung ist. Darüber Ostsee nicht im Bilde. Ich solle mich doch per Mail an Herrn plassmann wenden und meinen Plan beifügen
+## Telefonat mit S. p. / Sekretariat am 25.1.2022
+Ich schildere das Problem und meinen Behörden Sprung. Frage wie weit die die Planung ist. Darüber Ostsee nicht im Bilde. Ich solle mich doch per Mail an Herrn p. wenden und meinen Plan beifügen
 
-## Brief an Herrn Plassmann 25.1.2022
+## Brief an Herrn P. 25.1.2022
 
-Sehr geehrter Herr Kollege Plassmann,
+Sehr geehrter Herr Kollege P.,
 
 als ehemaliger Feldafinger Bürger und junger Architekt habe ich mich mit Freunden aus dem Ort zusammengetan mit der Absicht, einen Saunaverein zu gründen. 
 Der Verein sucht derzeit einen passenden Standort in Feldafing. Als optimaler Standort fiehl die Wahl auf das Strandbad Feldafing, da hier schon die nötige Infrastruktur vorhanden ist. 
