@@ -1,4 +1,4 @@
-# Telefonat mit Robert am 29.6.2020
+## Telefonat mit Robert am 29.6.2020
 - Statik
 - Windlast
 - Abheben
@@ -17,41 +17,41 @@ Genehmigung
 - Kostenberechnung 
 - Finanzierung 
 
-# Telefonat mit Sarah W. (Pächterin Strandbad) Anfang Juli 2020
+## Telefonat mit Sarah W. (Pächterin Strandbad) Anfang Juli 2020
 Hat kein persönliches Interesse an saunieren. Ist skeptisch ob sich ihre Gäste an der Sauna stören würden. Würde sich es aber gerne mal ansehen. Sage ihr ich würde gerne ihre Einwände hören bevor ich vor dem Gemeinderat stehe ohne sie als Expertin gehört zu haben. Sie hat aber erst Zeit wenn es schlechtes Wetter hat. Meldet sich wenn es bei ihr passt.
 
-# Gespräch mit Darija und Peter am 4.7.2020
+## Gespräch mit Darija und Peter am 4.7.2020
 - Türe schlägt nach innen, Fluchtweg, andere Lösung
 - Lüftung im Dach nötig?
 - Rauch beim anzünden
 - Raumhöhe, weitere Ebene für Sitzbänke
 - Modell bauen
 
-# Gespräch mit Robert am 6.7.2020
+## Gespräch mit Robert am 6.7.2020
 Gründung einer gGmbH dem Verein vorziehen. In einer gGmbH behielte ich das sagen und die Entscheidungskontrolle. Der Bau wäre Grundstock für die gGmbH. Überlege mir Saunaverein und Bau zu trennen. Hätte gerne den Verein als Betreiber mit dem ganzen Vereinszeug und das Büro als Bauherr bliebe im Besitz der Immobilie. Muss ja nicht umbedingt Vorstand im Verein bleiben wenn sich jemand besseres findet.
 
-# Gespräch mit Klaus am 22.7.2020
+## Gespräch mit Klaus am 22.7.2020
 Erzähle Klaus das ich heute mit dem Bauamt in Feldafing telefoniert habe, mit der Bitte in die Bauakten vom Standbad Einblick zu haben. Der Bürgermeister meinte aber ich solle doch erstmal die Idee im Gemeinderat vorstellen. Hab auf den Einwand das es sich um ein Baudenkmal handelt verwiesen. Es ist jedoch nur ein Einzeldenkmal und keine Ensemble womit es keine Einwände von Seite der Denkmalpfleger gibt. Er hat mir empfohlen dem Kreisbaumeister einen Brief zu schreiben und ihm von meinem Vorhaben zu berichten. Er würde mir bei der Formulierung helfen. Hab auch erwähnt das das Bauamt auf Frau Wiesböck verwiesen hat diese auch einzubinden. Es ist freundlich von mir die Pächterin einzubeziehen jedoch ist der Eigentümer die Gemeinde und die hat das sagen ob gebaut werden darf.
 
-# Telefonat mit Carl am 12.Juli 2020
+## Telefonat mit Carl am 12.Juli 2020
 Erzähle ihm von dem Vorhaben eine gGmbH zu gründen. Da habe ich ja einiges vor. Er kennt einen vom Kartoffelkombinat. Daniel Überall ist auch in der Anstiftung. 
 Hat ihn kennengelert über die Werkbox. Er konnte ihm gut weiterhelfen bzgl. Regelung der Rechtsform für den gemeinnützigen Verein der Werkbox. Ist ein Netzwerker, hat an ihn auch Leute weitergeleitet.
 Er hat einen guten Überblick über wieviele Mitglieder das Kartoffelkombinat aufnehmen kann. Kommt ursprünglich aus der Werbeagentur, bis es ihm dort nicht mehr getaugt hat.
 
-Telefonat mit Frau R. (Bauamt Gemeinde Feldafing) am 22.7.2020
+## Telefonat mit Frau R. (Bauamt Gemeinde Feldafing) am 22.7.2020
 Anfrage zu Plänen vom Strandbad. Es gibt mehrere Pläne. Die Wirtschaft kam erst später dazu. Nach Rückfrage mit dem Bürgermeister ob ich ins Archiv kann, soll Ich im Gemeinderat erstmal meine Idee vorstellen ob ein neues Saunagebäude in Gemeinderat Zuspruch findet. Schwierigkeit des Denkmalschutzes. Ein nächster Termin im Gemeinderat wäre im September möglich.
 
-Telefonat mit Herrn E. (Geschäftsleitung Gemeinde Feldafing) am 28.7.2020
-Wusste noch nichts von dem Projekt. Hat sich darüber noch nicht mit dem Bürgermeister unterhalten. Ich solle doch eine Projektbeschreibung und Unterlagen die ich habe ihm per E-Mail schicken, bevor er es auf die Tagesordnung setzt. Muss nochmal mit dem Bürgermeister Rücksprache halten. Ein Termin im September wäre prinzipiell möglich. Zurzeit ist ein Umbau des Strandbades in Planung. Könnte also gut passen. Email p.englaender@feldafing.de
+## Telefonat mit Herrn E. (Geschäftsleitung Gemeinde Feldafing) am 28.7.2020
+Wusste noch nichts von dem Projekt. Hat sich darüber noch nicht mit dem Bürgermeister unterhalten. Ich solle doch eine Projektbeschreibung und Unterlagen die ich habe ihm per E-Mail schicken, bevor er es auf die Tagesordnung setzt. Muss nochmal mit dem Bürgermeister Rücksprache halten. Ein Termin im September wäre prinzipiell möglich. Zurzeit ist ein Umbau des Strandbades in Planung. Könnte also gut passen.
 
-Telefonat mit Frau G. von Sculptor Network am 28.7.2020
+## Telefonat mit Frau G. von Sculptor Network am 28.7.2020
 Können keine Projekte finanzieren. Sind auf die Beiträge der Mitglieder angewiesen. Das einzige was sie machen können ist es zu Publizieren. Könnten weiterhelfen falls weitere Künstler benötigt werden. Erzähle, wie die Sauna als Objekt und Gebäude aussieht und dass ich das Projekt OpenSource gestalten will, dass andere es nachbauen können. Empfiehlt mir mich an das Kompetenzteam Kultur- und Kreativwirtschaft - muenchen.de zu wenden sowie auf ihrer Website unter digitale Unterstützung nachzusehen, wo man Förderung für eine Crowdfundingkampagne bekommt. 
 Wünscht mir viel Erfolg und würde sich freuen vom Fortgang des Projekts zu hören.
 
-Telefonat mit Felix am 29.7.2020
+## Telefonat mit Felix am 29.7.2020
 Er baut grade mit einem Bildhauer einen 7m hohen Turm auf einer Lichtung im Wald. Zylinderförmig verjüngt sich die Schalung des Turms nach oben. Später kommen Lärchenschindeln als Deckung drauf. Frag ihn ob er eine Conction zu Schindel Hersteller hat. Der Bildhauer kennt den Schindel Sepp der mit seiner Frau die Schindeln selber herstellt. Würde mir die Telefonnummer weiterleiten. Erzähle von meinen Plänen zum Büro und zu den aktuellen Projekten. Falls es etwas zu tun gibt wäre er gerne dabei. Wir müssen noch vor seinem Urlaub etwas ausmachen und uns in Passau bei seiner Baustelle treffen.
 
-Mittwoch 14.Oktober 2020
+## Mittwoch 14.Oktober 2020
 Brief an Thoma Holz100
 
 Sehr geehrtes Thoma Team,
@@ -75,7 +75,7 @@ Telefonat mit Frau S. Kreisbaumeisterin LRA 2021
 - Idee Gut winternutzung 
 
 
-Samstag 7.8.2021
+## Samstag 7.8.2021
 Email an Thoma Holz100
 
 Sehr geehrtes Damen und Herren,
@@ -93,13 +93,13 @@ Herzliche Grüße
 Josef Lehner
 
 
-Telefonat mit frau h. am Dienstag den 25.1.2022
+## Telefonat mit frau h. am Dienstag den 25.1.2022
 Hat die Unterlagen weitergeleitet. Da gerade der Umbau läuft mit neuen einbauten kann er sich das Gebäude nicht vorstellen. Sie sieht das nicht so aber er hat das letzte Wort. Wenn jetzt die Stimmung im Gemeinderat sich für Das Projekt äußert weis sie nicht wie es aussieht. Ein Treffen aller Beteiligten ist nicht möglich zu Zeit. Ich kann ihn nochmal anrufen und mit ihm selbst reden. Ich bekomme seine Nummer. Er ist nur Montags erreichbar.
 
-Telefonat mit S.-P. / Sekretariat am 25.1.2022
+## Telefonat mit S.-P. / Sekretariat am 25.1.2022
 Ich schildere das Problem und meinen Behörden Sprung. Frage wie weit die die Planung ist. Darüber Ostsee nicht im Bilde. Ich solle mich doch per Mail an Herrn plassmann wenden und meinen Plan beifügen
 
-Brief an Herrn P. 25.1.2022
+## Brief an Herrn P. 25.1.2022
 
 Sehr geehrter Herr Kollege P.,
 
