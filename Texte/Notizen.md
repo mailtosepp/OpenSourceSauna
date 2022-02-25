@@ -166,7 +166,7 @@ Genehmigung
 - Kostenberechnung 
 - Finanzierung 
 
-Telefonat mit Sarah Wiesböck (Pächterin Strandbad) Anfang Juli 2020
+Telefonat mit Sarah W, (Pächterin Strandbad) Anfang Juli 2020
 Hat kein persönliches Interesse an saunieren. Ist skeptisch ob sich ihre Gäste an der Sauna stören würden. Würde sich es aber gerne mal ansehen. Sage ihr ich würde gerne ihre Einwände hören bevor ich vor dem Gemeinderat stehe ohne sie als Expertin gehört zu haben. Sie hat aber erst Zeit wenn es schlechtes Wetter hat. Meldet sich wenn es bei ihr passt.
 
 ## Gespräch mit Darija und Peter am 4.7.2020
