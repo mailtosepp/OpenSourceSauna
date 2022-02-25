@@ -51,8 +51,8 @@ Wünscht mir viel Erfolg und würde sich freuen vom Fortgang des Projekts zu hö
 ## Telefonat mit Felix am 29.7.2020
 Er baut grade mit einem Bildhauer einen 7m hohen Turm auf einer Lichtung im Wald. Zylinderförmig verjüngt sich die Schalung des Turms nach oben. Später kommen Lärchenschindeln als Deckung drauf. Frag ihn ob er eine Conction zu Schindel Hersteller hat. Der Bildhauer kennt den Schindel Sepp der mit seiner Frau die Schindeln selber herstellt. Würde mir die Telefonnummer weiterleiten. Erzähle von meinen Plänen zum Büro und zu den aktuellen Projekten. Falls es etwas zu tun gibt wäre er gerne dabei. Wir müssen noch vor seinem Urlaub etwas ausmachen und uns in Passau bei seiner Baustelle treffen.
 
-## Mittwoch 14.Oktober 2020
-Brief an Thoma Holz100
+## Brief an Thoma Holz100, Mittwoch 14.Oktober 2020
+
 
 Sehr geehrtes Thoma Team,
 
@@ -75,8 +75,8 @@ Telefonat mit Frau S. Kreisbaumeisterin LRA 2021
 - Idee Gut winternutzung 
 
 
-## Samstag 7.8.2021
-Email an Thoma Holz100
+## Email an Thoma Holz100, Samstag 7.8.2021
+
 
 Sehr geehrtes Damen und Herren,
 
